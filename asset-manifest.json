@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/svp/static/css/main.9e86e743.css",
-    "main.js": "/svp/static/js/main.400b3964.js",
+    "main.css": "/svp/static/css/main.3c4a4075.css",
+    "main.js": "/svp/static/js/main.2221414a.js",
     "static/js/787.a697000a.chunk.js": "/svp/static/js/787.a697000a.chunk.js",
     "static/media/backimg.jpg": "/svp/static/media/backimg.036b9f610d8536e0c627.jpg",
     "static/media/teacher-2.jpg": "/svp/static/media/teacher-2.ecf3a900b30e82d07092.jpg",
@@ -27,15 +27,17 @@
     "static/media/1.jpg": "/svp/static/media/1.a272c861c450a6e5a6c5.jpg",
     "static/media/6.jpg": "/svp/static/media/6.16c752feffd3c2ba8019.jpg",
     "static/media/8.jpg": "/svp/static/media/8.4fd64b8ae3f515909899.jpg",
+    "static/media/cancel.png": "/svp/static/media/cancel.03cb4fb8f68fcd7a7c33.png",
+    "static/media/up Arrow.png": "/svp/static/media/up Arrow.47e8b30c85d8e7eafa66.png",
     "static/media/about.svg": "/svp/static/media/about.cbb8e6dfb92067874eda8a06fe458d23.svg",
     "static/media/book.svg": "/svp/static/media/book.7829b3ecb4199512fa1c3cacafdc8fce.svg",
     "index.html": "/svp/index.html",
-    "main.9e86e743.css.map": "/svp/static/css/main.9e86e743.css.map",
-    "main.400b3964.js.map": "/svp/static/js/main.400b3964.js.map",
+    "main.3c4a4075.css.map": "/svp/static/css/main.3c4a4075.css.map",
+    "main.2221414a.js.map": "/svp/static/js/main.2221414a.js.map",
     "787.a697000a.chunk.js.map": "/svp/static/js/787.a697000a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e86e743.css",
-    "static/js/main.400b3964.js"
+    "static/css/main.3c4a4075.css",
+    "static/js/main.2221414a.js"
   ]
 }
